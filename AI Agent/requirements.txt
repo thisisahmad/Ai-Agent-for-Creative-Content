@@ -1,0 +1,6 @@
+openai
+torch
+transformers
+elasticsearch
+pillow
+streamlit
